@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @mohansrkrs
-- 👀 I’m interested in isotope hydrology and geospatial statiatics and 
-- 🌱 I’m currently learning geospatial statostics
+- 👀 I’m interested in isotope hydrology and geospatial statiatics
+- 🌱 I’m currently learning geospatial statistics
 - 💞️ I’m looking to collaborate on developing groundwater isoscape
-- 📫 How to reach me mohansrkr@outlook.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me mohansrkr@iitb.ac.in
 
 <!---
 mohansrkrs/mohansrkrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
